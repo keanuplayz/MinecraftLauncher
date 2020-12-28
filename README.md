@@ -1,0 +1,3 @@
+# MinecraftLauncher
+
+Custom Minecraft launcher.
